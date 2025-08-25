@@ -10,7 +10,7 @@ Fatal Venom é mais que uma marca de roupas; é uma atitude. Nascida para quem n
 
 <div align="center">
 
-| [<img src="https://github.com/victorperri.png" width="100">](https://github.com/VictorPerri) | [<img src="https://github.com/michele-miirtilo.png" width="100">](https://github.com/michele-miirtilo) | [<img src="https://github.com/HipayBottt.png" width="100">](https://github.com/HipayBottt) | [<img src="https://github.com/Miguelito-xcx.png" width="100">](https://github.com/Miguelito-xcx) |
+| [<img src="https://github.com/victorperri.png" width="100">](https://github.com/VictorPerri) | [<img src="https://github.com/michele-miirtilo.png" width="100">](https://github.com/michele-miirtilo) | [<img src="https://github.com/Hipayyy.png" width="100">](https://github.com/Hipayyy) | [<img src="https://github.com/Miguelito-xcx.png" width="100">](https://github.com/Miguelito-xcx) |
 |---|---|---|---|
 | **Victor Perri** | **Michele Miirtilo** | **HipayBottt** | **Miguelito xcx** |
 
